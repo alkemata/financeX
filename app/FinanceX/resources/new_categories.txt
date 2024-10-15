@@ -1,0 +1,78 @@
+Paiements en espèces et par carte de crédit
+    Paiements en espèces et par carte de crédit:
+    Retrait d'argent:BAT HOHENSTEIN, bargeld, automate, auslandseinsa, ic cash
+    Carte de crédit: 
+    Paiements en ligne: paypal, spotify
+Loisirs
+    Livres: Thalia, ZENTRALBIBLIOTHEK, doeblingers, hugendubel, buchhandlung
+    Loisirs: decathlon
+    Restauration & Hôtel: attika, asia mekong, HOSTELWORLD, booking, restaurant, hotel, mcdonalds, cafe, takeaway, betriebe, road stop, sushi, scheppen, ristorante, pizzeria, burgerheart
+    Divertissement & Jeux: CINE, cinema,  musee, aquapark, museum, kino
+    Vacances: Preussische Schloesser, wien, como, milano, kirchberg, rivera, bellagio, eisenac, carros,driburg
+    Événements: Theater,Philharmonie, viagogo
+    Associations & Syndicats & Adhésions: Rot-Weiss Essen
+    Cinéma: cinemaxx
+    Jeux-concours:
+Salaire/Revenu
+    Salaire/Revenu: european patent office
+Ménage & Coût de la vie
+    Vêtements & Chaussures: deichmann, retail, fashion, woolworth
+    Ordinateur & Accessoires: saturn, media markt
+    Cadeaux: promofoot, bvb, blumen, ogc nice, bijou
+    Santé: Zahnarztpraxis, mediserv, Gemeinschaftspraxis Schumann, PVB Klerks, augenaerzte, kieferorthop. Labor, kluge, uk meds, orthopae
+    Redevance audiovisuelle: rundfunk
+    Ménage & Coût de la vie:
+    Animaux domestiques: fressnapf
+    Internet: Paddle, screentimelabs
+    Communication & Information:
+    Alimentation & Boissons: aldi, lidl, edeka, go asia, Kaufland, action, dm, backwaren, backwerk, rossman, Buchholzhof, netto, Le Crobag, backen, einzelhandels, buchholzhof, cora, auchan, leclerc, tchibo, yorma, rewe, baeckerei, kik
+    Online-shopping: amazon, ebay, vinted
+    Soins & Nettoyage:
+    Protection juridique:
+    Dons:
+    Téléphone: free mobile, congstar, 1+1
+    Assurances:
+    Autres frais de santé: apotheke, optiker
+    Médicaments:
+    Assurance responsabilité civile privée:
+    Frais de port:
+    Assurance accident:
+    Dépenses de bureau:  ovh, chatgpt, consulat
+    Cadeaux & Dons: johanniter
+Enfants
+    Frais de scolarité & de formation: FRANZ.GYMNASIUMS , Franzosischen 
+    Ecoles de musique: Musik schule, Teilnehmergebuehren Mu, geigenbau, Landesmusikakademie, taeuber
+    Sport: fitx, unschlagbar, turnerbund, schachfreunde, ass. carantec
+    Cantine: vielfaltmenue
+Autres dépenses
+    Autres dépenses:
+    Autre financement:
+Autres revenus
+    Versement de crédit/prêt:
+    Versement/Remboursement d'assurance: cigna
+    Autres revenus:
+Épargne & Prévoyance
+    Frais de compte & Intérêts: Kontofuehrung, Rechnungsabschluss
+    Assurance-vie:
+    Épargne: LPV Lebensversicherung, AUFSTOCKUNG, AEDAN, MAEL, Alouenn, Erell, notfall
+    Épargne & Prévoyance:
+Transport & Mobilité
+    Prêt auto:
+    Assurance auto: ADAC, HUK-COBURG
+    Péages: autob., sanef, cofiroute
+    Transports en commun: Ruhrbahn, DB, Flix, vrr, sncf, rheinbahn, CTS, ratp, mvv
+    Frais de stationnement: parken, easypark
+    Réparations:
+    Amendes: uri, amende
+    Carburant: esso, total, shell, aral, start, tankstelle, station, jet, bp
+    Transport & Mobilité:
+    Taxe automobile (privée):
+    Réparations et accessoires auto: fank
+    Acquisition auto: darlehensrate, bank11
+    location: europcar, avis, enterprise
+    avion: eurowings
+Habitat
+    Aménagements extérieurs: shuhrgard
+    Rénovation & Réparations: hellweg, bricolage, hagebaumarkt
+Revenus du capital
+    Revenus du capital:

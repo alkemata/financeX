@@ -1,0 +1,76 @@
+Unkategorisiert
+    Unkategorisiert
+    Umbuchung
+Bar- und Kreditkartenzahlungen
+    Bar- und Kreditkartenzahlungen
+    Barabhebung
+    Kreditkarte
+Freizeit
+    Buecher
+    Freizeit
+    Gastronomie & Hotel
+    Hobby
+    Unterhaltung & Spiele
+    Urlaub
+    Veranstaltungen
+    Vereine & Verbaende & Mitgliedschaften
+    Kino
+    Gewinnspiele
+Gehalt/Lohn
+    Gehalt/Lohn
+Haushalt & Lebenshalt.
+    Bekleidung & Schuhe
+    Computer & Zubehoer
+    Geschenke
+    Gesundheit 
+    GEZ-Gebuehren
+    Haushalt & Lebenshalt.
+    Haustiere
+    Internet
+    Kommunikation & Information
+    Nahrungsmittel & Getraenke
+    Pflege & Reinigung 
+    Rechtsschutz 
+    Spenden
+    Telefon
+    Versicherungen
+    Sonstige Gesundh.-Kosten
+    Medikamente
+    Privat-Haftpflicht
+    Porto
+    Unfallversicherung
+    Bueroausgaben
+    Geschenke & Spenden
+Kinder
+    Studien- & Ausbildungsgeb.
+    Kinder
+Sonstige Ausgaben
+    Sonstige Ausgaben
+    Sonstige Finanzierung
+Sonstige Einnahmen
+    Auszahlung Kredit/Darlehen
+    Auszahlung/Erstattung Versicherung
+    Sonstige Einnahmen
+Sparen & Vorsorge
+    Kontogebuehren & Zinsen
+    Lebensversicherung
+    Sparen
+    Sparen & Vorsorge
+Verkehr & Mobilitaet
+    KFZ Darlehen
+    KFZ-Versicherung
+    Mautgebuehren
+    Oeffentliche Verkehrsmittel
+    Parkgebuehren
+    Reparaturen
+    Strafen
+    Treibstoff
+    Verkehr & Mobilitaet
+    KFZ-Steuer (privat)
+    KFZ-Reparaturen und -Zubehoer
+    KFZ-Anschaffung
+Wohnen
+    Aussenanlagen
+    Renovierung & Reparaturen
+Kapitalertraege
+    Kapitalertraege
