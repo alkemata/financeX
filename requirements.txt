@@ -1,0 +1,13 @@
+# requirements.txt
+werkzeug===2.2.2
+Flask
+flask-login
+flask-wtf
+Flask-SQLAlchemy
+Flask-Bcrypt
+python-dotenv
+dash
+dash-bootstrap-components
+pandas
+dash_ag_grid 
+git-filter-repo #todo remove afterwards
