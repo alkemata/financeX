@@ -3,10 +3,13 @@ from flask import Blueprint, render_template, redirect, url_for, flash, request,
 from flask_login import login_user, login_required, logout_user, current_user
 from werkzeug.security import generate_password_hash, check_password_hash
 from .models import db, User
+from flask_limiter import Limiter
+limiter = Limiter(app, key_func=get_remote_address)
 
 auth_blueprint = Blueprint('auth', __name__)
 
 @auth_blueprint.route('/login', methods=['GET', 'POST'])
+@limiter.limit("5 per minute")  # Limit to 5 attempts per minute
 def login():
     if request.method == 'POST':
         username = request.form.get('username')
