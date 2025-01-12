@@ -23,7 +23,7 @@ def create_dash_app(flask_server):
     global displayed_month
     appyear = dash.Dash(__name__,  server=flask_server,url_base_pathname='/year/', external_stylesheets=[dbc.themes.BOOTSTRAP])
     df=functions.load_data('processed.csv')
-    if df==0:
+    if isinstance(df, int):
         return appyear
 
 #============== navbar layout
