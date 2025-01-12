@@ -22,6 +22,8 @@ logger = logging.getLogger()
 def create_dash_app(flask_server):
     appedit= dash.Dash(__name__,  server=flask_server,url_base_pathname='/edit/', external_stylesheets=[dbc.themes.BOOTSTRAP])
     df=functions.load_data('processed.csv')
+    if df==0:
+        return appedit
     
 #============== navbar layout
     navbar_layout = html.Div([
