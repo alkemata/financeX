@@ -36,15 +36,7 @@ def save_global(dataframe,file): #TODO remove duplicate functions with overview
 
 def load_account_data(file3): #config.txt
     account_data = {}
-    file_path = os.path.join(ressources_dir, file3)
-    
-    # Check if the file exists
-    if not os.path.exists(file_path):
-        print(f"File {file3} does not exist.")
-        return 0  # Return 0 if the file does not exist
-
-    # Process the file if it exists
-    with open(file_path, mode='r') as file:
+    with open(os.path.join(ressources_dir,file3), mode='r') as file:
         reader = csv.reader(file,delimiter=';')
         #next(reader)  # Skip the header row if there is one
         for row in reader:
@@ -74,10 +66,18 @@ def detect_transfers(row):
     return df
 
 def load_data(file):
-        df = pd.read_csv(os.path.join(ressources_dir,file),sep=',')
-        df['Buchungsdatum'] = pd.to_datetime(df['Buchungsdatum'], format='%d-%m-%Y')
-        #df['Betrag'] = pd.to_numeric(df['Betrag'].replace(',','.',regex=True), errors='coerce')
-        return df
+    file_path = os.path.join(ressources_dir, file)
+    
+    # Check if the file exists
+    if not os.path.exists(file_path):
+        print(f"File {file} does not exist.")
+        return 0  # Return 0 if the file does not exist
+
+
+    df = pd.read_csv(os.path.join(ressources_dir,file),sep=',')
+    df['Buchungsdatum'] = pd.to_datetime(df['Buchungsdatum'], format='%d-%m-%Y')
+    #df['Betrag'] = pd.to_numeric(df['Betrag'].replace(',','.',regex=True), errors='coerce')
+    return df
 
 def merge_new_data(file1, file2):
     try:
