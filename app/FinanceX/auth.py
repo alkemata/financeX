@@ -4,7 +4,7 @@ from flask_login import login_user, login_required, logout_user, current_user
 from werkzeug.security import generate_password_hash, check_password_hash
 from .models import db, User
 from flask_limiter import Limiter
-limiter = Limiter(app, key_func=get_remote_address)
+limiter = Limiter(key_func=get_remote_address)
 
 auth_blueprint = Blueprint('auth', __name__)
 

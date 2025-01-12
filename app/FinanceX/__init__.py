@@ -3,7 +3,7 @@ from flask import Flask
 from flask_login import LoginManager
 from .models import db, User
 from .routes import main_blueprint
-from .auth import auth_blueprint  # Import the auth blueprint
+from .auth import auth_blueprint, limiter  # Import the auth blueprint
 from .edit import create_dash_app
 from .dashboard import create_dash_app as create_dash_app_2
 from .yearview import create_dash_app as create_dash_app_3
@@ -18,6 +18,7 @@ def create_app():
 
     # Initialize database
     db.init_app(app)
+    limiter.init_app(app)  # Bind Limiter to the Flask app
 
     # Initialize Flask-Login
     login_manager = LoginManager()
