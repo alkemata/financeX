@@ -5,6 +5,7 @@ flask-login
 flask-wtf
 Flask-SQLAlchemy
 Flask-Bcrypt
+flask-limiter
 python-dotenv
 dash
 dash-bootstrap-components
