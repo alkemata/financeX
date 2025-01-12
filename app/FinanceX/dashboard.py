@@ -23,6 +23,8 @@ def create_dash_app(flask_server):
     global displayed_month
     appdash = dash.Dash(__name__,  server=flask_server,url_base_pathname='/dashboard/', external_stylesheets=[dbc.themes.BOOTSTRAP])
     df=functions.load_data('processed.csv')
+    if df==0:
+        return appdash
     last_update=df['Buchungsdatum'].max()
     year=df['Buchungsdatum'].dt.year.max()
     current_year=year
